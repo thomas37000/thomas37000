@@ -1,7 +1,14 @@
 ### Hi there 👋 i'm a Wev Developper.
 I’m currently in training at the Wild Code School of Nantes.
+
 I’m currently learning Javascript / React / Node Js
 
-https://codesandbox.io/thomas37000
-https://codepen.io/thomaschalanson
-https://repl.it/@hippopopi37
+https://www.linkedin.com/in/thomas-chalanson/ 
+
+<!-- (https://cdn.icon-icons.com/icons2/285/PNG/256/social_linkedin_box_blue_256_30641.png) -->
+
+<!-- https://codesandbox.io/thomas37000 -->
+
+<!-- https://codepen.io/thomaschalanson -->
+
+<!-- https://repl.it/@hippopopi37 -->
