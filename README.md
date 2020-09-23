@@ -1,16 +1,7 @@
 ### Hi there 👋 i'm a Wev Developper.
+I’m currently in training at the Wild Code School of Nantes.
+I’m currently learning Javascript / React / Node Js
 
-<!--
-**thomas37000/thomas37000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently in training at the Wild Code School of Nantes.
-- 🌱 I’m currently learning Javascript / React / Node Js
-
-
-<!--I’m looking to collaborate on ...
--  I’m looking for help with ...
--  Ask me about ...
--  How to reach me: ...
--  Pronouns: ...
--  Fun fact: ...
--->
+https://codesandbox.io/thomas37000
+https://codepen.io/thomaschalanson
+https://repl.it/@hippopopi37
