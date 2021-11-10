@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas Chalanson</h1>
 <h3 align="center">A passionate frontend developer from Nantes with 1 year of practical experience in Progressive Web App Development using React / Javascript / Html / Css / Scss / styled-components / node js / mysql and Scrum & Agile method.</h3>
 
-- 🔭 I’m currently working on [Insta](https://github.com/thomas37000/insta)
+- 🔭 I’m currently working on [esn](https://github.com/thomas37000/esn) and [esn-backend](https://github.com/thomas37000/esn-backend)
 
 - 🌱 I’m currently learning **Typescript and Firebase**
 
