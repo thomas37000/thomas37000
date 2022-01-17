@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript, Firebase and Redux**
 
-- 👨‍💻 All of my projects are available at [portfolio link](https://thomas37000.github.io/mon-portfolio/)
+- 👨‍💻 All of my projects are available at [portfolio link](https://thomas-chalanson-react-portfolio.netlify.app/)
 
 - 💬 Ask me about **React**
 
