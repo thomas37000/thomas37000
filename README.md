@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [esn](https://github.com/thomas37000/esn) and [esn-backend](https://github.com/thomas37000/esn-backend)
 
-- 🌱 I’m currently learning **Typescript and Firebase and Redux**
+- 🌱 I’m currently learning **Typescript, Firebase and Redux**
 
 - 👨‍💻 All of my projects are available at [portfolio link](https://thomas37000.github.io/mon-portfolio/)
 
