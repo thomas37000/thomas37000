@@ -10,7 +10,7 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **thomas.chalanson@gmail.com**
-https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
