@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thomas Chalanson</h1>
-<h3 align="center">A passionate frontend developer from Nantes with 1 year of practical experience in Progressive Web App Development using React / Javascript / Html / Css / Scss / styled-components / node js / mysql and Scrum & Agile method.</h3>
+<h3 align="center">A passionate frontend developer from Nantes in Progressive Web App Development using React / Javascript / Html / Css / Scss / styled-components / node js / mysql and Scrum & Agile method.</h3>
 
-- 🔭 I’m currently working on [pockedex](https://github.com/thomas37000/pokemon)
-
-- 🌱 I’m currently learning **Java, Typescript, Angular**
+- 🌱 I’m currently learning **Java, Typescript**
 
 - 👨‍💻 All of my projects are available at [portfolio link](https://thomas-chalanson-react-portfolio.netlify.app/)
-
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **thomas.chalanson@gmail.com**
 
