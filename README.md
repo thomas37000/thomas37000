@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas Chalanson</h1>
 <h3 align="center">A passionate frontend developer from Nantes in Progressive Web App Development using React / Javascript / Html / Css / Scss / styled-components / node js / mysql and Scrum & Agile method.</h3>
 
-- 🌱 I’m currently learning **Java, Typescript**
+- 🌱 I’m currently learning **Python, Typescript**
 
 - 👨‍💻 All of my projects are available at [portfolio link](https://thomas-chalanson-react-portfolio.netlify.app/)
 
@@ -35,6 +35,8 @@
 </p> 
 
 <h4>Back End Programming Languages:</h4>
+<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
+<a href="https://nodejs.org" target="_blank"> <img 
 <a href="https://www.oracle.com/fr/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="node" width="50" height="50"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
@@ -45,6 +47,7 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mysql server" alt="mysql server" width="50" height="50"/>
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" alt="express" width="50" height="50"/>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>
+<a href="https://supabase.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="50" height="50"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 </p>
  
@@ -57,7 +60,8 @@
 
 <h4>Other:</h4>
 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="50" height="50"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas37000&layout=compact)]()
